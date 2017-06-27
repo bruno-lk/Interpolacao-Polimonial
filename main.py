@@ -5,7 +5,7 @@
 
 def main():
     points = [[1, 3], [2, 5], [3, 1]]  # [x,y]
-    x = 2.66  # questao 3
+    x = 2.66
 
     print "pontos: ", points
     print "x =", x, "\n"
@@ -56,6 +56,8 @@ def newton(points, x):
 
     return aprx
 
+
+# not yet finished
 def mmq():
     pass
 
